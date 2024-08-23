@@ -17,5 +17,9 @@
     "explorer.sortOrderLexicographicOptions": "unicode",
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
     }
 }
