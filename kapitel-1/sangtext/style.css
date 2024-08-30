@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(163, 255, 163);
+    background-image: url("./bilder/mckayla-crump-EzpVvIrL-Xw-unsplash\ \(1\).jpg");
+}
+
+h1{
+  color: rgb(112, 112, 255);
+  font-size: 70px;
+}
+h2{
+   color: rgb(93, 93, 147);
+   font-size: 20px; 
+}
+p{
+  color: rgb(104, 104, 182);
+  font-size:15px;
+}
+
