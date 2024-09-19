@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+body{
+    background-image: url(./bilder/156dadb7-dbd9-4de9-8be1-1c8a9576c356.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: "DM Sans", sans-serif;
+    font-size: 100px;
+    color: rgb(120, 4, 236);
+}
+h2{
+
+}
+h3{
+color: rgb(120, 4, 236);
+}
+p{
+    width: 500px;
+    color: hotpink;
+}
