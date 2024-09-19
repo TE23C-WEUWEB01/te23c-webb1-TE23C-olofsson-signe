@@ -8,14 +8,17 @@ h1{
     font-family: "DM Sans", sans-serif;
     font-size: 100px;
     color: rgb(120, 4, 236);
+    margin-left: 200px;
 }
 h2{
-
+    margin-left: 200px;
 }
 h3{
 color: rgb(120, 4, 236);
+margin-left: 200px;
 }
 p{
     width: 500px;
     color: hotpink;
+    margin-left: 200px;
 }
