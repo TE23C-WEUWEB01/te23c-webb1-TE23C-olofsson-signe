@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&family=Handjet:wght@100..900&display=swap');
+
+/* Sidans bakgrund */
+body {
+    background-color: #8d8888;
+}
+
+/* kontainern utseende */
+.kontainer {
+    width: 800px;
+    padding: 30px;
+    margin: auto;
+    font-family: "Freckle Face", system-ui;
+}
+h1 {
+    font-family: "Handjet", sans-serif;
+    font-size: 120px;
+    text-align: center;
+}
+h2 {font-size: 40px;}
+
+/* Boxarnas utseende */
+.bild{
+    background-color: #000;
+    color:#fff;
+    padding: 50px;
+    margin-bottom: 50px;
+    border-radius: 20;
+}
+img{
+    width: 100%;
+}
+h3{}
+p{ 
+    font-size: 40px;
+}
+a{}
