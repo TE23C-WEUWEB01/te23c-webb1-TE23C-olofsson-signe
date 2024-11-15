@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+
 /* Enkel CSS-reset */
 html {
     box-sizing: border-box;
@@ -10,13 +12,53 @@ body, h1, h2, h3, h4, h5, h6, p, ul {
     padding: 0;
 }
 
-.kontainer{
+body{
+background-image:url("./bilder/william-recinos-qtYhAQnIwSE-unsplash.jpg") ;
+background-position: -400px -550px;
+}
 
+.kontainer{
+font-family: "Faster One ", system-ui;
+width: 500px;
+margin: auto;
+padding: 30px;
 }
 
 .bild{
-    
+    display: flex;
+
 }
 img{
-    
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid #107acc;
+}
+
+p{
+
+}
+
+h1{
+
+}
+
+h2{
+
+}
+
+td{
+    padding: 5px;
+    background-color: rgb(32, 2, 74);
+}
+
+table{
+
+}
+
+.thanks{
+color: rgb(104, 0, 90);
+}
+
+a{
+
 }
