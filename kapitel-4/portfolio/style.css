@@ -43,11 +43,12 @@ color: #48bfe3;
 
 h1{
 font-family: "Delius Swash Capps", cursive; 
+color: #b5e48c;
 }
 
 h2{
 font-family: "lacquer", system-ui;
-color: #bde0fe;
+color: #d00000;
 }
 
 span{
@@ -86,9 +87,9 @@ color: #ffd6e0;
 }
 
 .honsafotter{
-color: #;
+color: #c0fdff;
 }
 
 .franskfolkvisa{
-
+color: #0096C7;
 }
