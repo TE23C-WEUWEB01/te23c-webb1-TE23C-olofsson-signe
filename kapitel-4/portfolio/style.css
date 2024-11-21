@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Lacquer&display=swap');
 
 /* Enkel CSS-reset */
 html {
@@ -18,47 +18,77 @@ background-position: -400px -550px;
 }
 
 .kontainer{
-font-family: "Faster One ", system-ui;
-width: 500px;
+    font-family: "Delius Swash Caps", cursive;
+width: 800px;
 margin: auto;
 padding: 30px;
+color:#52b788;
+border: 2px solid #c77dff;
 }
 
-.bild{
-    display: flex;
-
+.bilder{
+    font-family: "Lacquer", system-ui;
+    width: 50%;
+    border: 5px solid #1e6091;
 }
 img{
     width: 300px;
     border-radius: 10px;
-    border: 5px solid #107acc;
+    border: 5px solid #01497c;
 }
 
 p{
-
+color: #48bfe3;
 }
 
 h1{
-
+font-family: "Delius Swash Capps", cursive; 
 }
 
 h2{
+font-family: "lacquer", system-ui;
+color: #bde0fe;
+}
 
+span{
+    color: #ffff3f;
 }
 
 td{
     padding: 5px;
-    background-color: rgb(32, 2, 74);
 }
 
 table{
-
+border: 5px solid #1e6091;
+font-family: "Lacquer", system-ui;
+background-color: #52b788;
+color: #48bfe3;
 }
 
 .thanks{
-color: rgb(104, 0, 90);
+    font-family: "Lacquer", system-ui;
 }
 
 a{
+  color: #e8998d;
+}
+
+.kolumner{
+display: flex;
+gap: 40px;
+}
+
+ul{
+    font-family: "Delius Swash Caps", cursive;
+}
+li{
+color: #ffd6e0;
+}
+
+.honsafotter{
+color: #;
+}
+
+.franskfolkvisa{
 
 }
