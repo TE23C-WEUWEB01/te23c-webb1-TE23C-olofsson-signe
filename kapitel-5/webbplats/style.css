@@ -1,0 +1,85 @@
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Mountains+of+Christmas:wght@400;700&display=swap');
+
+/* Layoutens utseende  */
+
+body{
+
+}
+
+.kontainer{
+    font-family: "Caveat", cursive;
+ width: 800px;
+ padding: 20px;
+ margin: auto;
+ background-color: #72EFDD;
+}
+
+/* Menyns utseende  */
+
+ul{
+display: flex;
+justify-content: space-between;
+}
+
+li{
+list-style-type: none;
+}
+
+a{
+   text-decoration: none;
+  background-color: #5E60CE;
+  padding: 10px;
+  width: 140px;
+  display: inline-block;
+  border-radius: 3px;
+  color: #80FFDB;
+  text-align: center;
+  box-shadow: 3px 3px 0 #48BFE3;
+}
+a:hover{
+    background-color: #7400B8;
+}
+
+/* Innehållet */
+
+h1{
+    font-family: "Mountains of Christmas", serif;
+    color: #7400B8;
+    font-size: 80px;
+}
+
+figure{
+    background-color: #5390D9;
+    padding: 30px;
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img{
+width: 100%;
+}
+
+figcaption{
+
+}
+
+p{
+    margin-bottom: 15px;
+}
+
+.tack{
+
+}
