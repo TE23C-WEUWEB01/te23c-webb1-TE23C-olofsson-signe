@@ -1,5 +1,6 @@
 .wanderer{
-    background-color: 0;
+    background-color: #000;
+    color: #fff;
 }
 .wanderer .vimeo{
     position: fixed;
@@ -20,4 +21,24 @@
     left: 50%;
     transform: translate(-50%,-50%);
     border: none;
+}
+.wanderer main{
+    display: grid;
+    align-items: center;
+}
+
+.Venus h1{
+    color: #5D0B0D;
+}
+
+.Venus header nav a {
+color: #5D0B0D;
+}
+
+.Venus header nav a:hover {
+    border-bottom: 2px solid #5D0B0D;
+}
+
+.Venus header nav a.active {
+    border-bottom: 2px solid #5D0B0D;
 }
