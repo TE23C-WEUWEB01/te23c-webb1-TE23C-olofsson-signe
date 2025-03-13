@@ -42,3 +42,35 @@ color: #5D0B0D;
 .Venus header nav a.active {
     border-bottom: 2px solid #5D0B0D;
 }
+
+.Europa h1{
+    color: #5D0B0D;
+}
+
+.Europa header nav a {
+color: #5D0B0D;
+}
+
+.Europa header nav a:hover {
+    border-bottom: 2px solid #5D0B0D;
+}
+
+.Ceres header nav a.active {
+    border-bottom: 2px solid #5D0B0D;
+}
+
+.Ceres h1{
+    color: #5D0B0D;
+}
+
+.Europa header nav a {
+color: #5D0B0D;
+}
+
+.Europa header nav a:hover {
+    border-bottom: 2px solid #5D0B0D;
+}
+
+.Europa header nav a.active {
+    border-bottom: 2px solid #5D0B0D;
+}
